@@ -2,7 +2,7 @@
 name: Retrospective feedback
 about: Suggest the Sprint Retrospective feedback here
 title: ''
-labels: ''
+labels: retrospective
 assignees: ''
 
 ---
